@@ -1,4 +1,5 @@
 # REA CI - Revolutionizing Real Estate in Ivory Coast
+    V.1.1
 Revolutionizing Real Estate in Ivory Coast
 REA is an innovative real estate platform tailored for the Ivory Coast market. Whether you are looking to buy, sell, or rent properties, REA offers a seamless experience for both individuals and agents. With an intuitive interface, advanced search filters, and localized features, REA connects you with your dream property or helps you navigate the market with ease.
 ---------------------
